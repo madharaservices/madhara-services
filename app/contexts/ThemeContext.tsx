@@ -16,11 +16,8 @@ export const ThemeProvider = ({ children }: { children: ReactNode }) => {
 
   useEffect(() => {
     const storedTheme = localStorage.getItem('theme') as Theme | null;
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
     if (storedTheme) {
       setTheme(storedTheme);
-    } else if (prefersDark) {
-      setTheme('dark');
     }
   }, []);
 
