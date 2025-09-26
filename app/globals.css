@@ -1,0 +1,28 @@
+/* app/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Light Theme (Default) */
+    --background: 248 250 252; /* #f8fafc */
+    --foreground: 26 32 44; /* #1a202c */
+    --card: 255 255 255; /* #ffffff */
+  }
+
+  .dark {
+    /* Dark Theme */
+    --background: 15 23 42; /* #0f172a */
+    --foreground: 248 250 252; /* #f8fafc */
+    --card: 30 41 59; /* #1e293b */
+  }
+}
+
+body {
+  color: rgb(var(--foreground));
+  background-color: rgb(var(--background));
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
