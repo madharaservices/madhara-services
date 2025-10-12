@@ -41,7 +41,7 @@ const RequestForm = () => {
                                 </div>
                                 <div className="flex items-center gap-4">
                                     <FiPhone className="text-primary dark:text-dark-primary" size={20}/>
-                                    <span className="text-dark dark:text-dark-text">+94 11 234 5678</span>
+                                    <span className="text-dark dark:text-dark-text">+94 76 577 8129</span>
                                 </div>
                                 <div className="flex items-center gap-4">
                                     <FiMapPin className="text-primary dark:text-dark-primary" size={20}/>

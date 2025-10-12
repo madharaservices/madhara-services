@@ -33,7 +33,7 @@ const socialLinks = [
 
 const contactDetails = [
     { icon: FiMapPin, text: '123 Main Street, Colombo' },
-    { icon: FiPhone, text: '+94 11 234 5678' },
+    { icon: FiPhone, text: '+94 76 577 8129' },
     { icon: FiMail, text: 'contact@madhara.com' },
 ]
 
