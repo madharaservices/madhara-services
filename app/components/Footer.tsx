@@ -32,9 +32,9 @@ const socialLinks = [
 ];
 
 const contactDetails = [
-    { icon: FiMapPin, text: '123 Main Street, Colombo' },
+    { icon: FiMapPin, text: 'Colombo, Sri Lanka' },
     { icon: FiPhone, text: '+94 76 577 8129' },
-    { icon: FiMail, text: 'contact@madhara.com' },
+    { icon: FiMail, text: 'madharaservices@gmail.com' },
 ]
 
 const Footer = () => {

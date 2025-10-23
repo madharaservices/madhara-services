@@ -7,28 +7,28 @@ import Link from 'next/link';
 
 const faqData = [
     {
-        question: "How do you vet your professionals?",
-        answer: "Every candidate undergoes a comprehensive background check, multiple interviews, and a skill-specific evaluation. We also provide mandatory training on professionalism, safety, and our company's code of conduct to ensure the highest quality of service."
+        question: "What types of care services does Madhara Services provide?",
+        answer: "We offer personalized care for the elderly, babies, and those who are sick or recovering. Our services include daily assistance, companionship, hygiene support, feeding, medication reminders, and emotional care — all tailored to meet the specific needs of each individual and family."
     },
     {
-        question: "What is the process for requesting a service?",
-        answer: "You can start by filling out the 'Request a Service' form on our website. Our team will then contact you within 24 hours to discuss your specific needs, provide a detailed proposal, and begin the matching process."
+        question: "Are your caregivers trained and background-checked?",
+        answer: "Yes. Every caregiver at Madhara Services goes through a thorough background check, skill assessment, and professional training before joining our team. We ensure that each team member upholds our values of compassion, responsibility, and trust."
     },
     {
-        question: "Can we request a replacement if we are not satisfied?",
-        answer: "Absolutely. Your satisfaction is our priority. If you are not completely satisfied with the assigned personnel, we will work with you to understand the issues and provide a suitable replacement as quickly as possible."
+        question: "Can I choose or meet the caregiver before they start?",
+        answer: "Absolutely. We understand that comfort and trust are important. Families have the option to meet and approve their assigned caregiver before service begins, ensuring the right match for both personality and care needs."
     },
     {
         question: "What types of contracts do you offer?",
         answer: "We offer flexible staffing solutions, including temporary, permanent, and contract-to-hire options. We tailor our agreements to fit your business needs, whether you require short-term support or a long-term staffing partner."
     },
     {
-        question: "What industries do you specialize in?",
-        answer: "While we are known for personal care and security, we also provide specialized staffing for corporate events, hospitality sectors, and administrative roles. Contact us to learn more about our diverse capabilities."
+        question: "Are your services available on a full-time or part-time basis?",
+        answer: "Yes, we offer flexible plans — whether you need a caregiver for a few hours, overnight, or full-time support. Our goal is to make care accessible and adaptable to your schedule and needs."
     },
     {
-        question: "How is billing handled?",
-        answer: "We offer transparent and straightforward billing on a monthly or project basis, depending on the contract. Invoices are detailed and can be paid through various convenient methods."
+        question: "Can I combine care and security services?",
+        answer: "Yes, you can. Many of our clients choose to combine our caregiving and security services for complete peace of mind. Whether it’s having a caregiver and a guard in the same household or arranging a customized schedule, we’ll help design a solution that fits your exact needs and lifestyle."
     }
 ];
 
